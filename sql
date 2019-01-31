@@ -1,8 +1,6 @@
 
 'insert into Invoice_Spec_Bar(ID, Part_ID, BARCode, Thermal) on existing update values ('+
 
-
-
 select CG.*,C.id commerc_id,C.name commercname,
   G.id goods_id,G.name goodsname,G.unit,
   G.firm_id,F.name,
