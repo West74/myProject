@@ -6,4 +6,4 @@ FORMAT ASCII DELIMITED BY '\x09' QUOTE '';
 
 пока
 fffffffffffffffffffffffffffffffhhhhhhhh
-Этого текста в master нет
+Этого текста в master нет 
